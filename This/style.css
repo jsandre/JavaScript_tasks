@@ -1,0 +1,7 @@
+.block{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(230, 163, 41);
+    margin: 20px auto;
+    padding: 20px;
+}

@@ -1,0 +1,13 @@
+.block-1{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(41, 148, 219);
+}
+
+.red{
+    background-color: rgb(212, 55, 55);
+}
+
+.green{
+    background-color: rgb(38, 226, 79);
+}
